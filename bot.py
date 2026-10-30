@@ -70,4 +70,4 @@ async def dur(ctx):
         await ctx.send("Zaten bir ses kanalında değilim.")
 
 # BURAYA DİKKAT: Tırnak içine Discord Developer Portal'dan aldığın Token'ı yapıştıracaksın!
-bot.run('MTU2NTYzMjA0NTM0MDgyNzcwOA.GOM9_9.Ub218UAqip2NUc_-KEczmeCRWljXHkEt-TrM7k')
+bot.run('DISCORD_TOKEN')
